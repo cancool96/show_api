@@ -1,378 +1,163 @@
 {
-  "data":
-[
-  {
-    id: '1',
-    title: "Avengers Assemble Season 1",
-    image: "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_.jpg",
-    episodes: 26,
-    type: "TV",
-    rating: 9.8,
-    views: "1.2M",
-    status: "Completed",
-    synopsis: "The Red Skull, dying from the imperfect Super Soldier Serum, allies with M.O.D.O.K. and A.I.M. to capture Captain America and transfer his mind into his body. After Iron Man reassembles the Avengers, the Red Skull steals Iron Man's armor and becomes Iron Skull, attacking Avengers Mansion.",
-    genre: ["Action", "Drama", "Fantasy"],
-    releasedYear: 2013,
-    languages: ["English", "Hindi"],
-    popularity: 98,
-    showCarousel: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/164F0ED3F26E5289A0ACFF2542D38B87C40E9C19616BD9390635CBE80116BADE/scale?width=1200&aspectRatio=1.78&format=webp",
-    episodeDetails: [
-      {
-        episodeNumber: 1,
-        title: "The Avengers Protocol: Part 1",
-        streamingLinks: [
-          "https://vidmoly.to/embed-65q9owhpuvsi.html",
-          "https://short.ink/s1qmVFrLJ",
-          "https://filemoon.to/e/87wm8msct38i"
-        ]
-      },
-      {
-        episodeNumber: 2,
-        title: "The Avengers Protocol: Part 2",
-        streamingLinks: [
-          "https://vidmoly.to/embed-at175yf12421.html",
-          "https://short.ink/XVeO09UTlW",
-          "https://filemoon.to/e/wjpgswk2lwkg"
-        ]
-      }
-    ]
-  },
-  {
-    id: '2',
-    title: "Ultimate Spider-Man Season 1",
-    image: "https://i.pinimg.com/originals/54/3d/db/543ddbcec128e338815dd1ec9b791fc3.jpg",
-    episodes: 26,
-    type: "TV",
-    rating: 9.8,
-    views: "2M",
-    status: "Completed",
-    synopsis: "Peter Parker has been Spider-Man for a year, but he's still learning how to be a true superhero. Nick Fury offers him a chance to train to become 'The Ultimate Spider-Man' alongside fellow teen heroes.",
-    genre: ["Action", "Drama", "Fantasy"],
-    releasedYear: 2012,
-    languages: ["English", "Hindi"],
-    popularity: 99,
-    showCarousel: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD54F7FCA01C567510F4581770B3D5BE411E75D7F9DB88602B9A62725A5A74A5/scale?width=1200&aspectRatio=1.78&format=webp",
-    episodeDetails: [
-      {
-        episodeNumber: 1,
-        title: "Great Power",
-        streamingLinks: [
-          "https://www.bitchute.com/embed/ziBK5F7zfYCg/",
-          "https://rumble.com/embed/v60jfhn/?pub=4e6btq",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-02-great-responsibility-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 2,
-        title: "Great Responsibility",
-        streamingLinks: [
-          // "//vidmoly.to/embed-8d22q8vcxy75.html",
-          // "https://short.ink/Vvf6qKW8X",
-          // "https://filemoon.to/e/uip5v24w5o9q",
-          "https://rumble.com/embed/v60p0ue/?pub=4e6btq",
-          "https://www.bitchute.com/embed/Lnq8uBStkGZT/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-02-great-responsibility-1080p-hd-hindi-k-4-a_202412"
-        ]
-      },
-      {
-        episodeNumber: 3,
-        title: "Doomed!",
-        streamingLinks: [
-          // "//vidmoly.to/embed-u22q0n446a3p.html",
-          // "https://short.ink/sfrjoCXMi",
-          // "https://filemoon.to/e/oqfggzs5vlxm",
-          "https://rumble.com/embed/v611k3e/?pub=4e6btq",
-          "https://www.bitchute.com/embed/znnzcwJKU0VG/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-03-doomed-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 4,
-        title: "Venom",
-        streamingLinks: [
-          "https://rumble.com/embed/v614b9t/?pub=4e6btq",
-          "https://www.bitchute.com/embed/q0HjZ9eZ5Jan/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-04-venom-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 5,
-        title: "Flight Of The Iron Spider",
-        streamingLinks: [
-          "https://rumble.com/embed/v61cwv8/?pub=4e6btq",
-          "https://www.bitchute.com/embed/npF5Jr1BvakP/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-05-flight-of-the-iron-spider-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 6,
-        title: "Why I Hate the Gym",
-        streamingLinks: [
-          "https://rumble.com/embed/v61d63n/?pub=4e6btq",
-          "https://www.bitchute.com/embed/jfwlhgR7kQJr/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-06-why-i-hate-the-gym-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 7,
-        title: "Exclusive",
-        streamingLinks: [
-          "https://rumble.com/embed/v61dhbe/?pub=4e6btq",
-          "https://www.bitchute.com/embed/jWN5ItfPFepQ/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-07-exclusive-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 8,
-        title: "Back in Black",
-        streamingLinks: [
-          "https://rumble.com/embed/v61e6uj/?pub=4e6btq",
-          "https://www.bitchute.com/embed/msZq3xAmZvgv/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-08-back-in-black-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 9,
-        title: "Field Trip",
-        streamingLinks: [
-          "https://rumble.com/embed/v61eemy/?pub=4e6btq",
-          "https://www.bitchute.com/embed/5fDHLTBUrFgF/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-09-field-trip-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 10,
-        title: "Freaky",
-        streamingLinks: [
-          "https://rumble.com/embed/v61mngs/?pub=4e6btq",
-          "https://www.bitchute.com/embed/7aZesfqhBzcD/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-10-freaky-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 11,
-        title: "Venom Attack",
-        streamingLinks: [
-          "https://rumble.com/embed/v61mwup/?pub=4e6btq",
-          "https://www.bitchute.com/embed/Y1acLrObbdSz/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-11-venom-attack-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 12,
-        title: "Me Time",
-        streamingLinks: [
-          "https://rumble.com/embed/v61mzqv/?pub=4e6btq",
-          "https://www.bitchute.com/embed/9SMaIu4Dec1C/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-12-me-time-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 13,
-        title: "Strange Days",
-        streamingLinks: [
-          "https://rumble.com/embed/v61n4b1/?pub=4e6btq",
-          "https://www.bitchute.com/embed/EEjFd8a9dR4B/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-13-strange-days-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 14,
-        title: "Awesome",
-        streamingLinks: [
-          "https://rumble.com/embed/v61n7r7/?pub=4e6btq",
-          "https://www.bitchute.com/embed/UB8Tcz0z1MmG/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-14-awesome-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 15,
-        title: "For Your Eye Only",
-        streamingLinks: [
-          "https://rumble.com/embed/v61n9ca/?pub=4e6btq",
-          "https://www.bitchute.com/embed/cIuAcdAMj7uF/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-15-for-your-eye-only-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 16,
-        title: "Beetle Mania",
-        streamingLinks: [
-          "https://rumble.com/embed/v61ncqs/?pub=4e6btq",
-          "https://www.bitchute.com/embed/fFkOaAfebUZD/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-16-beetle-mania-1080p-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 17,
-        title: "Snow Day",
-        streamingLinks: [
-          "https://rumble.com/embed/v61neqv/?pub=4e6btq",
-          "https://www.bitchute.com/embed/z0Hw5vpxJiVT/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-17-snow-day-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 18,
-        title: "Damage",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nic1/?pub=4e6btq",
-          "https://www.bitchute.com/embed/NJvrerhDD5H8/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-18-damage-1080p-hd-hindi-k-4a"
-        ]
-      },
-      {
-        episodeNumber: 19,
-        title: "Home Sick Hulk",
-        streamingLinks: [
-          "https://rumble.com/embed/v61no4d/?pub=4e6btq",
-          "https://www.bitchute.com/embed/kELg8ZLK9JQB/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-19-home-sick-hulk-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 20,
-        title: "Run Pig Run",
-        streamingLinks: [
-          "https://rumble.com/embed/v61npe7/?pub=4e6btq",
-          "https://www.bitchute.com/embed/Cs5MHYTgoY2k/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-20-run-pig-run-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 21,
-        title: "I Am Spider-Man",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nt8j/?pub=4e6btq",
-          "https://www.bitchute.com/embed/DJic5aAvAlp4/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-21-i-am-spider-man-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 22,
-        title: "The Iron Octopus",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nvog/?pub=4e6btq",
-          "https://www.bitchute.com/embed/O3A0eWwQS1p8/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-22-the-iron-octopus-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 23,
-        title: "Not A Toy",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nx17/?pub=4e6btq",
-          "https://www.bitchute.com/embed/lP9LPHADj9hO/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-23-not-a-toy-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 24,
-        title: "Attack of the Beetle",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nxv7/?pub=4e6btq",
-          "https://www.bitchute.com/embed/9pS8EsJhraab/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-24-attack-of-the-beetle-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 25,
-        title: "Revealed",
-        streamingLinks: [
-          "https://rumble.com/embed/v61nz2y/?pub=4e6btq",
-          "https://www.bitchute.com/embed/ixXvcPRFUZZE/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-25-revealed-1080p-hd-hindi-k-4-a"
-        ]
-      },
-      {
-        episodeNumber: 26,
-        title: "The Rise Of The Goblin",
-        streamingLinks: [
-          "https://rumble.com/embed/v61o6aj/?pub=4e6btq",
-          "https://www.bitchute.com/embed/iaJBqFI0uG08/",
-          "https://archive.org/embed/ultimate-spider-man-s-1-e-26-the-rise-of-the-goblin-1080p-hd-hindi-k-4-a"
-        ]
-      }
-    ]
-  },
-  {
-    id: '3',
-    title: "Iron Man: Armored Adventures",
-    image: "https://m.media-amazon.com/images/I/91+uE3bZiUL._UF1000,1000_QL80_.jpg",
-    episodes: 26,
-    type: "TV",
-    rating: 9.5,
-    views: "1.5M",
-    status: "Completed",
-    synopsis: "When teenage Tony Stark loses his father in a plane crash, he uses his technological expertise to create a suit of armor that helps him search for answers and protect others.",
-    genre: ["Action", "Sci-Fi", "Adventure"],
-    releasedYear: 2009,
-    languages: ["English", "Hindi"],
-    popularity: 95,
-    showCarousel: "https://pbs.twimg.com/media/EG1_YVtU0AUSax9.jpg:large",
-    episodeDetails: [
-      {
-        episodeNumber: 1,
-        title: "Iron, Forged in Fire: Part 1",
-        streamingLinks: [
-          "https://vidmoly.to/embed-sample1.html",
-          "https://short.ink/sample1"
-        ]
-      }
-    ]
-  },
-  {
-    id: '4',
-    title: "Hulk and the Agents of S.M.A.S.H.",
-    image: "https://m.media-amazon.com/images/M/MV5BMTg1MzIxMzM4Nl5BMl5BanBnXkFtZTcwMTg3Mzc5OQ@@._V1_.jpg",
-    episodes: 26,
-    type: "TV",
-    rating: 9.3,
-    views: "1.1M",
-    status: "Completed",
-    synopsis: "Hulk leads a team of fellow gamma-powered heroes as they try to prove they're not monsters and can be forces for good.",
-    genre: ["Action", "Adventure", "Comedy"],
-    releasedYear: 2013,
-    languages: ["English", "Hindi"],
-    popularity: 92,
-    showCarousel: "https://pbs.twimg.com/media/EG2Eh-cVAAAwSHO.jpg:large",
-    episodeDetails: [
-      {
-        episodeNumber: 1,
-        title: "Doorway to Destruction: Part 1",
-        streamingLinks: [
-          "https://vidmoly.to/embed-sample2.html",
-          "https://short.ink/sample2"
-        ]
-      }
-    ]
-  },
-  {
-    id: '5',
-    title: "Marvel's Guardians of the Galaxy",
-    image: "https://images-cdn.ubuy.co.in/634f97159ab9652f4274a38b-guardians-of-the-galaxy-marvel-gaming.jpg",
-    episodes: 26,
-    type: "TV",
-    rating: 9.6,
-    views: "1.8M",
-    status: "Completed",
-    synopsis: "The Guardians of the Galaxy team up to protect the universe from threats while keeping their dysfunctional family together.",
-    genre: ["Action", "Adventure", "Comedy"],
-    releasedYear: 2015,
-    languages: ["English", "Hindi"],
-    popularity: 96,
-    showCarousel: "https://www.keywordsstudios.com/images/uploads/a763ac8c5a516524a24d29e64da75064.jpg",
-    episodeDetails: [
-      {
-        episodeNumber: 1,
-        title: "Road to Knowhere",
-        streamingLinks: [
-          "https://vidmoly.to/embed-sample3.html",
-          "https://short.ink/sample3"
-        ]
-      }
-    ]
-  }
-]
+  "data": [
+    {
+      "id": "1",
+      "title": "Avengers Assemble Season 1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_.jpg",
+      "episodes": 26,
+      "type": "TV",
+      "rating": 9.8,
+      "views": "1.2M",
+      "status": "Completed",
+      "synopsis": "The Red Skull, dying from the imperfect Super Soldier Serum, allies with M.O.D.O.K. and A.I.M. to capture Captain America and transfer his mind into his body. After Iron Man reassembles the Avengers, the Red Skull steals Iron Man's armor and becomes Iron Skull, attacking Avengers Mansion.",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "releasedYear": 2013,
+      "languages": ["English", "Hindi"],
+      "popularity": 98,
+      "showCarousel": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/164F0ED3F26E5289A0ACFF2542D38B87C40E9C19616BD9390635CBE80116BADE/scale?width=1200&aspectRatio=1.78&format=webp",
+      "episodeDetails": [
+        {
+          "episodeNumber": 1,
+          "title": "The Avengers Protocol: Part 1",
+          "streamingLinks": [
+            "https://vidmoly.to/embed-65q9owhpuvsi.html",
+            "https://short.ink/s1qmVFrLJ",
+            "https://filemoon.to/e/87wm8msct38i"
+          ]
+        },
+        {
+          "episodeNumber": 2,
+          "title": "The Avengers Protocol: Part 2",
+          "streamingLinks": [
+            "https://vidmoly.to/embed-at175yf12421.html",
+            "https://short.ink/XVeO09UTlW",
+            "https://filemoon.to/e/wjpgswk2lwkg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Ultimate Spider-Man Season 1",
+      "image": "https://i.pinimg.com/originals/54/3d/db/543ddbcec128e338815dd1ec9b791fc3.jpg",
+      "episodes": 26,
+      "type": "TV",
+      "rating": 9.8,
+      "views": "2M",
+      "status": "Completed",
+      "synopsis": "Peter Parker has been Spider-Man for a year, but he's still learning how to be a true superhero. Nick Fury offers him a chance to train to become 'The Ultimate Spider-Man' alongside fellow teen heroes.",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "releasedYear": 2012,
+      "languages": ["English", "Hindi"],
+      "popularity": 99,
+      "showCarousel": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD54F7FCA01C567510F4581770B3D5BE411E75D7F9DB88602B9A62725A5A74A5/scale?width=1200&aspectRatio=1.78&format=webp",
+      "episodeDetails": [
+        {
+          "episodeNumber": 1,
+          "title": "Great Power",
+          "streamingLinks": [
+            "https://www.bitchute.com/embed/ziBK5F7zfYCg/",
+            "https://rumble.com/embed/v60jfhn/?pub=4e6btq",
+            "https://archive.org/embed/ultimate-spider-man-s-1-e-02-great-responsibility-1080p-hd-hindi-k-4-a"
+          ]
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Great Responsibility",
+          "streamingLinks": [
+            "https://rumble.com/embed/v60p0ue/?pub=4e6btq",
+            "https://www.bitchute.com/embed/Lnq8uBStkGZT/",
+            "https://archive.org/embed/ultimate-spider-man-s-1-e-02-great-responsibility-1080p-hd-hindi-k-4-a_202412"
+          ]
+        },
+        {
+          "episodeNumber": 3,
+          "title": "Doomed!",
+          "streamingLinks": [
+            "https://rumble.com/embed/v611k3e/?pub=4e6btq",
+            "https://www.bitchute.com/embed/znnzcwJKU0VG/",
+            "https://archive.org/embed/ultimate-spider-man-s-1-e-03-doomed-1080p-hd-hindi-k-4-a"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Iron Man: Armored Adventures",
+      "image": "https://m.media-amazon.com/images/I/91+uE3bZiUL._UF1000,1000_QL80_.jpg",
+      "episodes": 26,
+      "type": "TV",
+      "rating": 9.5,
+      "views": "1.5M",
+      "status": "Completed",
+      "synopsis": "When teenage Tony Stark loses his father in a plane crash, he uses his technological expertise to create a suit of armor that helps him search for answers and protect others.",
+      "genre": ["Action", "Sci-Fi", "Adventure"],
+      "releasedYear": 2009,
+      "languages": ["English", "Hindi"],
+      "popularity": 95,
+      "showCarousel": "https://pbs.twimg.com/media/EG1_YVtU0AUSax9.jpg:large",
+      "episodeDetails": [
+        {
+          "episodeNumber": 1,
+          "title": "Iron, Forged in Fire: Part 1",
+          "streamingLinks": [
+            "https://vidmoly.to/embed-sample1.html",
+            "https://short.ink/sample1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Hulk and the Agents of S.M.A.S.H.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1MzIxMzM4Nl5BMl5BanBnXkFtZTcwMTg3Mzc5OQ@@._V1_.jpg",
+      "episodes": 26,
+      "type": "TV",
+      "rating": 9.3,
+      "views": "1.1M",
+      "status": "Completed",
+      "synopsis": "Hulk leads a team of fellow gamma-powered heroes as they try to prove they're not monsters and can be forces for good.",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "releasedYear": 2013,
+      "languages": ["English", "Hindi"],
+      "popularity": 92,
+      "showCarousel": "https://pbs.twimg.com/media/EG2Eh-cVAAAwSHO.jpg:large",
+      "episodeDetails": [
+        {
+          "episodeNumber": 1,
+          "title": "Doorway to Destruction: Part 1",
+          "streamingLinks": [
+            "https://vidmoly.to/embed-sample2.html",
+            "https://short.ink/sample2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Marvel's Guardians of the Galaxy",
+      "image": "https://images-cdn.ubuy.co.in/634f97159ab9652f4274a38b-guardians-of-the-galaxy-marvel-gaming.jpg",
+      "episodes": 26,
+      "type": "TV",
+      "rating": 9.6,
+      "views": "1.8M",
+      "status": "Completed",
+      "synopsis": "The Guardians of the Galaxy team up to protect the universe from threats while keeping their dysfunctional family together.",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "releasedYear": 2015,
+      "languages": ["English", "Hindi"],
+      "popularity": 96,
+      "showCarousel": "https://www.keywordsstudios.com/images/uploads/a763ac8c5a516524a24d29e64da75064.jpg",
+      "episodeDetails": [
+        {
+          "episodeNumber": 1,
+          "title": "Road to Knowhere",
+          "streamingLinks": [
+            "https://vidmoly.to/embed-sample3.html",
+            "https://short.ink/sample3"
+          ]
+        }
+      ]
+    }
+  ]
 }
-
